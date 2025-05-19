@@ -37,12 +37,15 @@ Operating System: Windows 10/11
 The tool must be run with administrator privileges for full functionality. If not run as administrator, the tool will attempt to restart itself automatically with the required privileges.
 After launching, a main menu will appear allowing you to choose the category you wish to explore:
 
-System Diagnostics
-Network Utilities
-Security Utilities
-Hardware Utilities
-Software Utilities
-Settings & Updates
+## Utilities
+
+- System Diagnostics
+- Network Utilities
+- Security Utilities
+- Hardware Utilities
+- Software Utilities
+- Settings & Updates
+
 
 # Contributing
 Contributions are welcome! If you'd like to contribute, please follow these steps:
