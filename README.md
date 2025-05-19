@@ -60,7 +60,6 @@ Fork the repository
 Create a branch for your feature
 Submit a pull request
 
-# License
-- Developer: 0x000000xx
+# Developer
 - LinkedIn: /in/iliasseMezzat
 - Version: v1.0.0
