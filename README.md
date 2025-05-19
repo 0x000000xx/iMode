@@ -61,6 +61,6 @@ Create a branch for your feature
 Submit a pull request
 
 # License
-Developer: 0x000000xx
-LinkedIn: /in/iliasseMezzat
-Version: v1.0.0
+- Developer: 0x000000xx
+- LinkedIn: /in/iliasseMezzat
+- Version: v1.0.0
