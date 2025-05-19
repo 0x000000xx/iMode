@@ -4,7 +4,7 @@ A comprehensive command-line tool for diagnosing and managing Windows systems, d
 # Overview
 Windows CLI Tool is a comprehensive utility that works through the command-line interface (CLI) and provides a wide range of diagnostic and management functions for Windows systems. The tool is designed to be user-friendly and efficient, with a simple and organized user interface that allows quick access to various diagnostic and management tools.
 
-## Key Features
+# Key Features
 
 ### System Diagnostics
 - Collect comprehensive system information (processor, memory, disks)  
@@ -44,7 +44,7 @@ Windows CLI Tool is a comprehensive utility that works through the command-line 
 The tool must be run with administrator privileges for full functionality. If not run as administrator, the tool will attempt to restart itself automatically with the required privileges.
 After launching, a main menu will appear allowing you to choose the category you wish to explore:
 
-## Utilities
+### Utilities
 
 - System Diagnostics
 - Network Utilities
